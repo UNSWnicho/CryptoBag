@@ -30,7 +30,7 @@ public class DetailActivity extends AppCompatActivity {
 
         // Get handle to view elements
         mValue = findViewById(R.id.tvValue);
-        mChange1h = findViewById(R.id.textView10);
+        mChange1h = findViewById(R.id.tvChange1hr);
         mChange24h = findViewById(R.id.tvChange24h);
         mChange7d = findViewById(R.id.tvChange7d);
         mMarketCap = findViewById(R.id.tvMarketCap);
